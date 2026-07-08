@@ -1,0 +1,66 @@
+.block-container{
+    padding-top:1rem;
+    padding-bottom:2rem;
+    max-width:1450px;
+}
+
+section[data-testid="stSidebar"]{
+    background:#151a28;
+}
+
+.stButton>button{
+    width:100%;
+    border-radius:12px;
+    height:50px;
+    font-size:18px;
+    font-weight:600;
+}
+
+.stTextArea textarea{
+    border-radius:12px;
+}
+
+div[data-testid="metric-container"]{
+    border:1px solid #2d3748;
+    border-radius:12px;
+    padding:12px;
+}
+
+.answer-card{
+    background:#151a28;
+    padding:20px;
+    border-radius:12px;
+    border:1px solid #30363d;
+}
+
+.agent-card{
+    background:#10141f;
+    border-left:4px solid #00c853;
+    padding:12px;
+    margin-bottom:10px;
+    border-radius:8px;
+}
+
+.stDownloadButton > button{
+
+    width:100%;
+
+    border-radius:10px;
+
+    height:45px;
+
+}
+
+.stAlert{
+
+    border-radius:10px;
+
+}
+
+hr{
+
+    margin-top:10px;
+
+    margin-bottom:20px;
+
+}
