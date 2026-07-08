@@ -343,33 +343,22 @@ http://localhost:8000/docs
 
 # 📸 Screenshots
 
-## Login
-
-> *(Add screenshot)*
-
----
-
 ## Dashboard
 
-> *(Add screenshot)*
+> docs/images/dashboard.png.png
 
 ---
 
 ## AI Response
 
-> *(Add screenshot)*
+> docs/images/answer.png.png
 
 ---
 
 ## Agent Execution
 
-> *(Add screenshot)*
-
----
-
-## Conversation History
-
-> *(Add screenshot)*
+> docs/images/execution_trace_1.png.png
+> docs/images/execution_trace_2.png.png
 
 ---
 
