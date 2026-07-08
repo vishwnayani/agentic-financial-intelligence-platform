@@ -343,24 +343,27 @@ http://localhost:8000/docs
 
 # 📸 Screenshots
 
-## Dashboard
+## 📊 Dashboard
 
-> docs/images/dashboard.png.png
-
----
-
-## AI Response
-
-> docs/images/answer.png.png
+![Dashboard](docs/images/dashboard.png)
 
 ---
 
-## Agent Execution
+## 🤖 AI Response
 
-> docs/images/execution_trace_1.png.png
-> docs/images/execution_trace_2.png.png
+![AI Response](docs/images/answer.png)
 
 ---
+
+## ⚙ Agent Execution
+
+### Execution Trace - Part 1
+
+![Execution Trace 1](docs/images/execution_trace_1.png)
+
+### Execution Trace - Part 2
+
+![Execution Trace 2](docs/images/execution_trace_2.png)
 
 # 🔄 Example Workflow
 
